@@ -6,7 +6,7 @@ Electrical Engineer with **20+ years in tech** and Python since 2002. Currently 
 
 ## 🔭 What I'm working on
 
-- 🤖 **[Prismal](https://gitlab.com/ecrespo)** — an open-source, security-first multi-agent orchestration framework built on **LangGraph**: central supervisor + 26 specialist agents, 9 reasoning patterns, 9 RAG engines, provider-agnostic via LiteLLM, native **MCP** support *(v3.0 — evolution of the now-deprecated LightAgent)*
+- 🤖 **[Prismal](https://github.com/prismal-ai)** — an open-source, security-first multi-agent orchestration framework built on **LangGraph**: central supervisor + 26 specialist agents, 9 reasoning patterns, 9 RAG engines, provider-agnostic via LiteLLM, native **MCP** support *(v3.0 — evolution of the now-deprecated LightAgent)*
 - 🌎 **vigia-eew** — a real-time **earthquake early-warning agent** (EMSC WebSocket + USGS FDSN + Raspberry Shake), supporting humanitarian response in Venezuela
 - 🧠 **LangGraph agent architectures** — documenting and teaching 16 agentic design patterns
 - ⚡ **Local LLM inference on AMD** — ROCm, llama.cpp, and NPU (XDNA 2) benchmarking on Linux
